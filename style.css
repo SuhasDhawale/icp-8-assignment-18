@@ -6,3 +6,10 @@
     border-radius: 10px;
     padding: 20px;
 }
+.screen{
+    background-color: #A1AF77;
+    text-align: right;
+    width: 220px;
+    display: block;
+    margin: 0 auto;
+}
