@@ -17,6 +17,12 @@
     padding: 5px 10px;
     margin-bottom: 20px;
 }
+.buttons-container{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    background-color: aqua;
+}
 .btn{
     width: 50px;
     text-align: center;
