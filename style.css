@@ -21,8 +21,9 @@
     display: flex;
     flex-direction: column;
     height: 200px;
-    background-color: aqua;
     flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
 }
 .btn{
     width: 50px;
@@ -31,3 +32,8 @@
     font-size: 20px;
     margin: 3px;
 } 
+.btn-equals{
+    height: 70px;
+    background-color: #ff6348;
+    color: white;
+}
