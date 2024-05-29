@@ -1,1 +1,3 @@
-# icp-8-assignment-18
+# Calculator
+
+![screenshot](<calculator_output.png>)
