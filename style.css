@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 .calculator-body{
     height: 300px;
     width: 250px;
@@ -16,6 +17,7 @@
     font-size: 25px;
     padding: 5px 10px;
     margin-bottom: 20px;
+    font-family: "VT323";
 }
 .buttons-container{
     display: flex;
