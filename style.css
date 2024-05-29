@@ -22,10 +22,12 @@
     flex-direction: column;
     height: 200px;
     background-color: aqua;
+    flex-wrap: wrap;
 }
 .btn{
     width: 50px;
     text-align: center;
     padding: 2px 0px;
     font-size: 20px;
+    margin: 3px;
 } 
